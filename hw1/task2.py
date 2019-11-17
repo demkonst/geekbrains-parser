@@ -2,7 +2,7 @@ import requests
 import json
 
 root_url = 'https://suggestions.dadata.ru/suggestions/api/4_1/rs/suggest/address/'
-api_key = '715a1d92f578319c5e44be9c2da2e3b72a5ce8f8'
+api_key = ''
 
 # Москва шаболовка
 print('Введите адрес для получения подсказок: ')
